@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/2910253704_3260943184_223132457.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_3491754854_3418421051.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_4119613256_4164817837.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_3447979013_2196734593.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_608321705_840383593.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_2872842549_2825663517.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_2952811749_2418509571.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_2872842549_3388146741.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_2088250518_3513842608.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_2872842549_1787885143.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Hyperbolic_Spiral/1920p60/partial_movie_files/hyperbolicSpiral/732045285_2387058117_2358810818.mp4'

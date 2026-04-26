@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/2910253704_3490377390_223132457.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_1172563137_3467379143.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_4119613256_2229381053.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_1041622231_4265061228.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_2519964513_1769508769.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_2872842549_90603517.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_2691083974_3793679778.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_2872842549_557574812.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_2256197985_1362295586.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_2872842549_3787764001.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Fermats_Spiral/1920p60/partial_movie_files/FermentsSpiral/732045285_884201602_2358810818.mp4'

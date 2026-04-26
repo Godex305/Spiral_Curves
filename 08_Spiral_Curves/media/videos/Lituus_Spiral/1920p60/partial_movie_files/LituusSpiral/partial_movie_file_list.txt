@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/2910253704_1982841059_223132457.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_2494387034_1463525127.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_4119613256_89580624.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_1264282701_1000343177.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_2519964513_2569298635.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_2872842549_3376532402.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_1923602578_882807427.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_2872842549_3347632622.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_990047778_1874940827.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_2872842549_720990141.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Lituus_Spiral/1920p60/partial_movie_files/LituusSpiral/732045285_705854253_2358810818.mp4'

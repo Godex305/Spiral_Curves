@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Camra_settings/1080p60/partial_movie_files/ZoomGraphExample/4260039051_4073845205_791261377.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Camra_settings/1080p60/partial_movie_files/ZoomGraphExample/3314073373_2714902452_2130991681.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Camra_settings/1080p60/partial_movie_files/ZoomGraphExample/2319386793_2714902452_2130991681.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Camra_settings/1080p60/partial_movie_files/ZoomGraphExample/4099134847_2835433411_2130991681.mp4'
+file 'file:/Users/godex305/manimations/08_Spiral_Curves/media/videos/Camra_settings/1080p60/partial_movie_files/ZoomGraphExample/4274794301_4073845205_4072316934.mp4'
